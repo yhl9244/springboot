@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="application" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka-server" />
+        <module name="libary" />
+        <module name="maven-archiver (3)" />
+        <module name="serice-feign" />
+        <module name="service-hi" />
+        <module name="service-zuul" />
+        <module name="servie-ribbon" />
+        <module name="springboot" />
+        <module name="springboot-apidoc" />
+        <module name="springboot-asyn" />
+        <module name="springboot-beatlsql" />
+        <module name="springboot-cache" />
+        <module name="springboot-docker" />
+        <module name="springboot-elasticsearch" />
+        <module name="springboot-jms" />
+        <module name="springboot-mongodb" />
+        <module name="springboot-mybatis" />
+        <module name="springboot-rabbitmq" />
+        <module name="springboot-redis (1)" />
+        <module name="springboot-restdoc" />
+        <module name="springboot-resttemplate" />
+        <module name="springboot-schedule" />
+        <module name="springboot-swagger" />
+        <module name="springboot-uploadfile" />
+        <module name="sprngboot-form" />
+      </profile>
+      <profile name="Annotation profile for Unknown" enabled="true">
+        <sourceOutputDir name="../generated-sources/annotations" />
+        <sourceTestOutputDir name="../generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-archiver (1)" />
+        <module name="maven-archiver (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="application" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="libary" target="1.8" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
+      <module name="maven-archiver (3)" target="1.5" />
+      <module name="serice-feign" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="servie-ribbon" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="springboot-apidoc" target="1.8" />
+      <module name="springboot-asyn" target="1.8" />
+      <module name="springboot-beatlsql" target="1.8" />
+      <module name="springboot-cache" target="1.8" />
+      <module name="springboot-docker" target="1.8" />
+      <module name="springboot-elasticsearch" target="1.8" />
+      <module name="springboot-jms" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot-multi-module" target="1.5" />
+      <module name="springboot-mybatis" target="1.8" />
+      <module name="springboot-rabbitmq" target="1.8" />
+      <module name="springboot-redis (1)" target="1.8" />
+      <module name="springboot-redis (2)" target="1.8" />
+      <module name="springboot-restdoc" target="1.8" />
+      <module name="springboot-resttemplate" target="1.8" />
+      <module name="springboot-schedule" target="1.8" />
+      <module name="springboot-swagger" target="1.8" />
+      <module name="springboot-uploadfile" target="1.8" />
+      <module name="sprngboot-form" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

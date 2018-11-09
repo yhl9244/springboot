@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "ServiceProperties",
+      "name": "service",
+      "type": "ServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "ServiceProperties",
+      "name": "service.message",
+      "description": "A message for the service.",
+      "type": "java.lang.String"
+    }
+  ]
+}

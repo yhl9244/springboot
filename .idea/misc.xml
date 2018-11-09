@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/serice-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/servie-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-jms/pom.xml" />
+        <option value="$PROJECT_DIR$/sprngboot-form/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-asyn/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-apidoc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-docker/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/springboot-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-restdoc/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/springboot-restdoc/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-beatlsql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-schedule/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-uploadfile/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootmultimodule/libary/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/springbootmultimodule/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-resttemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis-message/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
